@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - Bullet
+  - PosBoss
+  - PosBoss2
+  - Ground
+  - Wall
+  - PC
+  - Stunned
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - Boss
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Predios
+    uniqueID: 1078775395
+    locked: 0
+  - name: Ob
+    uniqueID: 227258921
+    locked: 0
+  - name: Floor
+    uniqueID: 2514044493
+    locked: 0
+  - name: Enemy
+    uniqueID: 1582835689
+    locked: 0
+  - name: Player
+    uniqueID: 882091329
+    locked: 0
+  - name: Ob2
+    uniqueID: 3775602811
+    locked: 0
